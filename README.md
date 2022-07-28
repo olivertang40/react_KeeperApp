@@ -1,5 +1,6 @@
 # react_KeeperApp
 react_KeeperApp: A simple react based application that is the clone of google keep
+![1659035527754](https://user-images.githubusercontent.com/88913839/181619245-c110aeaa-1baa-42f3-bd05-ccfdc4c55d70.jpg)
 
 ## Setup
 Make sure to follow all these steps exactly as explained below. Do not miss any steps or you won't be able to run this application.
